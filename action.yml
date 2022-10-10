@@ -1,4 +1,4 @@
-name: 'Setup Maven'
+name: 'yu Setup Maven'
 description: 'Install a specific version of Apache Maven and add it to the PATH'
 author: 'stCarolas'
 inputs:
