@@ -1,6 +1,6 @@
-name: 'yu Setup Maven'
+name: 'Install Maven'
 description: 'Install a specific version of Apache Maven and add it to the PATH'
-author: 'stCarolas'
+author: 'thermofisher'
 inputs:
   maven-version:
     description: 'Version Spec of the version to use.  Examples: 10.x, 10.15.1, >=10.15.0'
